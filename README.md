@@ -1,8 +1,7 @@
 # phoniebox-case
 An OpenSCAD model for wooden [Phoniebox](http://phoniebox.de/) cases.
 
-![alt text][logo]
-[logo]: case.png "Phoniebox wood case model"
+![Phoniebox wood case model](./case.png)
 
 ## Install OpenSCAD
 Install it on your OS according to [the instructions on the OpenSCAD website](http://www.openscad.org/downloads.html).
